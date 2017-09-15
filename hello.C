@@ -2,6 +2,7 @@
 
 int main(){
 	printf("Hello world");
-	printf("Nishitha is a programmer");
+	printf("Nikhitha is a programmer");
+	printf("thank you :) ");
 	return 0;
 }
